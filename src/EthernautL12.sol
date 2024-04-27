@@ -5,7 +5,7 @@ interface Building {
     function isLastFloor(uint256) external returns (bool);
 }
 
-contract Elevator {
+contract EthernautL12 {
     bool public top;
     uint256 public floor;
 
